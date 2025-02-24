@@ -25,9 +25,9 @@ author:
   avatar           : "profile1.png"
   name             : "Mukul Mhaskey"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Project Scientific Officer at HBCSE-TIFR"
+  location         : "Mumbai, India"
+  employer         : "Homi Bhabha Centre for Science Education (HBCSE-TIFR)"
   uri              : # URL
   email            : "none@example.org" 
 

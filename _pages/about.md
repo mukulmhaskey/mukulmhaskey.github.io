@@ -9,7 +9,7 @@ redirect_from:
 
 I am Mukul Mhaskey, an astrophysicist-turned-science educator with a deep interest in bridging the gap between cutting-edge research and school education. My journey has taken me from the study of extragalactic radio sources to large-scale science education interventions, where I work to make scientific thinking accessible to students and teachers alike.
 
-Academic & Research Background
+##Academic & Research Background
 I hold a PhD in Astrophysics from Savitribai Phule Pune University (2015–2020), where my research focused on extremely inverted spectrum radio sources at meter wavelengths. Over the years, I have worked extensively with radio telescopes, engaged in multi-wavelength astrophysical studies, and published research in high-impact international journals such as Astronomy & Astrophysics and MNRAS. My work also included writing telescope proposals (eight of which were successfully approved) and reviewing academic papers.
 
 Beyond my PhD, I worked as a research staff member at the Thüringer Landessternwarte Tautenburg, Germany, contributing to projects on compact radio galaxies and participating in data management initiatives for the PUNCH consortium, where I explored storage and compute infrastructures for large astronomy datasets.

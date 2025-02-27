@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: mukulmhaskey.github.io/publications/
+    url: /mukulmhaskey.github.io/publications/
 
   - title: "Talks"
     url: /talks/    

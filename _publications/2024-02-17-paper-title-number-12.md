@@ -2,7 +2,7 @@
 title: "Radio continuum emission and H I gas accretion in the NGC 5903/5898 compact group of early-type galaxies"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-11
+permalink: /publication/2024-02-17-paper-title-number-12
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2012-03-01
 venue: 'Proceedings of the American Physical Society Meeting'
